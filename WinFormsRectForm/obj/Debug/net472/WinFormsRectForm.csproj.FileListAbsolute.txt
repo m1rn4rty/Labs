@@ -1,0 +1,5 @@
+C:\Users\soda0\Downloads\Telegram Desktop\WinFormsRectForm\obj\Debug\net472\WinFormsRectForm.csproj.AssemblyReference.cache
+C:\Users\soda0\Downloads\Telegram Desktop\WinFormsRectForm\obj\Debug\net472\WinFormsRectForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soda0\Downloads\Telegram Desktop\WinFormsRectForm\obj\Debug\net472\WinFormsRectForm.AssemblyInfoInputs.cache
+C:\Users\soda0\Downloads\Telegram Desktop\WinFormsRectForm\obj\Debug\net472\WinFormsRectForm.AssemblyInfo.cs
+C:\Users\soda0\Downloads\Telegram Desktop\WinFormsRectForm\obj\Debug\net472\WinFormsRectForm.csproj.CoreCompileInputs.cache
