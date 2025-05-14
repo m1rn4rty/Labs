@@ -1,0 +1,10 @@
+@model Dictionary<char, List<string>>
+<h2>Овощи по группам</h2>
+@foreach (var group in Model) {
+    <h3>Буква: @group.Key</h3>
+    <table border="1">
+        @foreach (var veg in group.Value) {
+            <tr><td>@veg</td></tr>
+        }
+    </table>
+}

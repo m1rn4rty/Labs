@@ -1,0 +1,8 @@
+@model List<string>
+<h2>Овощи (таблица)</h2>
+<table border="1">
+<tr><th>Название</th></tr>
+@foreach (var item in Model) {
+    <tr><td>@item</td></tr>
+}
+</table>
